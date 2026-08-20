@@ -1,0 +1,36 @@
+.ETF
+====
+
+.ETF (EXIF-Truncation-Format) is a privacy-based
+image format. It is hardcoded to not have any
+EXIF-data which saves time as you will not have
+to use any 3rd-Party Tools.
+
+
+I want to use .ETF
+==================
+
+To bad! It is not available YET.
+
+Documentation
+=============
+
+Specification: https://github.com/Orsacle/ETF/blob/main/docs/spec.md
+Getting started: https://github.com/Orsacle/ETF/blob/main/docs/start.md
+API Ref: https://github.com/Orsacle/ETF/blob/main/docs/api.md
+Guides: https://github.com/Orsacle/ETF/blob/main/docs/guides.md
+
+
+Where did .ORS go?
+==================
+
+.ORS was written extremly bad and had no
+documentation at ALL (boo). So i decided
+to completely re-write .ORS in Golang.
+Also I do not like the name .ORS so that
+has changed too.
+
+
+Licensing
+=========
+.ETF is licensed under the MPL-2.0: https://github.com/Orsacle/ETF/blob/main/LICENSE
